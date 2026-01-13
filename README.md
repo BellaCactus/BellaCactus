@@ -1,16 +1,17 @@
-## Hi there 👋
+# bella ♡
 
-<!--
-**BellaCactus/BellaCactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm bella.
 
-Here are some ideas to get you started:
+this is my personal github where i keep projects, tools, and experiments.
+most of my work is practical, game-related, or built to solve very specific problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- network / limiter tools
+- overlays & utilities
+- random experiments
+
+## status
+this is a temporary homepage.
+a proper site will replace this later.
+
+thanks for stopping by :)
