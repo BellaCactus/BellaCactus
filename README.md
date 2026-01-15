@@ -29,24 +29,15 @@ stuff you’ll mostly find here:
 
 ---
 
-## media
-
-### image
 ![twi and trixy](twi%20and%20trixy.jpg)
 
-### video
 
-**option A (best effort, stays in repo root):**  
-this may embed as a player depending on github, otherwise it will open normally.
-
-https://github.com/BellaCactus/BellaCactus/raw/main/Player_Tip_%20Kill%20Yourself.mp4
-
-**option B (guaranteed inline player):**  
-edit this README, drag the mp4 into the editor, and paste the generated link here:
-
-https://github.com/user-attachments/assets/PASTE-YOUR-LINK-HERE
 
 ---
+
+
+https://github.com/user-attachments/assets/bf5f2eaf-776a-44f9-b400-030aa6726f5c
+
 
 ## status
 
