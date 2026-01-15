@@ -29,12 +29,22 @@ stuff you’ll mostly find here:
 
 ---
 
-## focus / vibe
+## media
 
-- useful > perfect  
-- tiny tools that do one job well  
-- game-adjacent qol stuff  
-- learning-by-building  
+### image
+![twi and trixy](twi%20and%20trixy.jpg)
+
+### video
+
+**option A (best effort, stays in repo root):**  
+this may embed as a player depending on github, otherwise it will open normally.
+
+https://github.com/BellaCactus/BellaCactus/raw/main/Player_Tip_%20Kill%20Yourself.mp4
+
+**option B (guaranteed inline player):**  
+edit this README, drag the mp4 into the editor, and paste the generated link here:
+
+https://github.com/user-attachments/assets/PASTE-YOUR-LINK-HERE
 
 ---
 
