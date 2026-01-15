@@ -29,14 +29,15 @@ stuff you’ll mostly find here:
 
 ---
 
+
+
+https://github.com/user-attachments/assets/bf5f2eaf-776a-44f9-b400-030aa6726f5c
+
 ![twi and trixy](twi%20and%20trixy.jpg)
 
 
 
 ---
-
-
-https://github.com/user-attachments/assets/bf5f2eaf-776a-44f9-b400-030aa6726f5c
 
 
 ## status
